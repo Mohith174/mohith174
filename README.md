@@ -1,5 +1,5 @@
-# Hi, I'm [Your Name]! 👋
-[![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange)](your-portfolio-link)
+# Hello, I'm Mohith Kodavati! 👋
+[![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange)](https://mohithkodavati.vercel.app/)
 
 ## My Skill-Set
 
@@ -16,7 +16,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+
 
 ### 📊 Data-Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
@@ -32,9 +32,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ## 🚀 About Me
-- 🎓 Junior at [Rutgers University].
+- 🎓 Junior at Rutgers University.
 - 💻 Pursing Full-Stack and Backend Software Engineering Roles.
 
 ## Interests 
 - Web Development  
 - Automation  
+
+## 🌐 Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohitkodavati/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohitkod178@gmail.com)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohith174&show_icons=true&theme=dark)
