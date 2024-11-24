@@ -1,44 +1,64 @@
-# Hello, I'm Mohith Kodavati! 👋
-
-[![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange)](https://mohithkodavati.vercel.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohitkodavati/)
+# Hi, I'm Mohith Kodavati! 👋  
+[![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange?style=for-the-badge)](https://mohithkodavati.vercel.app/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohitkodavati/)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohitkod178@gmail.com)
 
-## 📚 About Me
-- 🎓 Junior at Rutgers University.
-- 💻 Pursuing Full-Stack and Backend Software Engineering roles.
-- 🌟 Interests: Web Development and Automation.
-- 🌱 Currently learning Cloud Computing and DevOps tools.
+---
 
-## 🛠️ My Skill-Set
-### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+## My Skill-Set
 
-### Web-Stack
-![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Express.js](https://img.icons8.com/color/48/000000/expressjs.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+### 🔧 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)  
 
-### Data Science
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-![Conda](https://img.icons8.com/color/48/000000/anaconda.png)
-![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png)
+---
 
-### Other Tools
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
+### 🕸 Web-Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
 
-## 📊 GitHub Stats
-![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohith174&show_icons=true&theme=dark)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mohith174.mohith174)
-![Mohith's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mohith174&theme=github)
+---
+
+### 📊 Data-Science  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
+![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+
+---
+
+### 🔑 Other Skills  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+---
+
+## 🚀 About Me
+- 🎓 Junior at **Rutgers University**.  
+- 💻 Pursuing **Full-Stack and Backend Software Engineering** roles.  
+- 🌟 Interests: **Web Development** and **Automation**.  
+- 🌱 Currently learning **Cloud Computing** and **DevOps** tools.  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohith174&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith174&layout=compact&theme=dark)  
+
+---
+
+## 🤝 Connect with Me  
+[![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange?style=for-the-badge)](https://mohithkodavati.vercel.app/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohitkodavati/)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohitkod178@gmail.com)
+
+---
+
