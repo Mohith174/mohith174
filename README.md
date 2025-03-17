@@ -6,7 +6,7 @@
 
 ## 📚 About Me
 - 🎓 Junior at **Rutgers University**.
-- 💻 Pursuing **Full-Stack and Backend Software Engineering** roles.
+- 💻 Pursuing **Full-Stack, Backend Software Engineering, and Data Analytics** roles.
 - 🌟 Interests: **Web Development** and **Automation**.
 - 🌱 Currently learning **Cloud Computing** and **DevOps** tools.
 
