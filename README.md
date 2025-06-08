@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohitkod178@gmail.com)
 
 ## 📚 About Me
-- 🎓 Junior at **Rutgers University**.
+- 🎓 Rising Senior at **Rutgers University**.
 - 💻 Pursuing **Full-Stack, Backend Software Engineering, and Data Analytics** roles.
 - 🌟 Interests: **Web Development and Machine Learning** .
 - 🌱 Currently learning **Cloud Computing** and **DevOps** tools.
