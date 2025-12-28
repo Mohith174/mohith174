@@ -81,14 +81,6 @@ Modern, responsive portfolio showcasing projects and experience
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohith174&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith174&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohith174&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
 
 ## 📈 Contribution Graph
 [![Mohith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohith174&theme=react-dark&hide_border=true)](https://github.com/mohith174)
