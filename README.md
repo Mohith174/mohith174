@@ -13,8 +13,8 @@
 
 ## 💼 Experience Highlights
 - 🏢 **Global Technology Intern** @ Colgate-Palmolive (Summer 2025)
-- 💻 **Software Developer Extern** @ Data Storytelling, LLC (Jan-Apr 2025)
-- 📊 **Data Analyst Extern** @ Colgate-Palmolive (Sep-Dec 2024)
+- 💻 **Software Developer Extern** @ Data Storytelling, LLC 
+- 📊 **Data Analyst Extern** @ Colgate-Palmolive 
 
 ## My Skill-Set
 
@@ -77,7 +77,6 @@ Modern, responsive portfolio showcasing projects and experience
 ## 🎓 Certifications
 - 📜 **Google Data Analytics Professional Certificate**
 - 🎓 **AT&T Technology Academy Graduate**
-- 📚 **AWS Certified Developer – Associate** (In Progress)
 
 ## 📊 GitHub Stats
 
