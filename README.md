@@ -1,4 +1,4 @@
-# Hi, I'm Mohith Kodavati! 👋
+# Hi, I'm Mohith Kodavati! 
 
 [![Portfolio Badge](https://img.shields.io/badge/💼-My%20Portfolio-orange?style=for-the-badge)](https://mohithkodavati.vercel.app/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohitkodavati/)
