@@ -11,9 +11,10 @@
 
 
 ## 💼 Experience Highlights
-- 🏢 **Global Technology Intern** @ Colgate-Palmolive (Summer 2025)
-- 💻 **Software Developer Extern** @ Data Storytelling, LLC 
-- 📊 **Data Analyst Extern** @ Colgate-Palmolive 
+-  **AI Extern** @ Pfizer via Extern (Summer 2026)
+-  **Global Technology Intern** @ Colgate-Palmolive (Summer 2025)
+-  **Software Developer Extern** @ Data Storytelling, LLC 
+-  **Data Analyst Extern** @ Colgate-Palmolive 
 
 ## My Skill-Set
 
@@ -56,7 +57,7 @@
 ![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
 
-## [Personal Portfolio](https://mohithkodavati.vercel.app/)
+## [Personal Portfolio](https://mohithkodavati.com/)
 Modern, responsive portfolio showcasing projects and experience
 - **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion
 - **Key Features:** Smooth animations, mobile-first design, 98+ Lighthouse score
